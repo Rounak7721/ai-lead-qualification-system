@@ -12,6 +12,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Demo](#demo)
 - [Problem](#problem)
 - [Solution](#solution)
 - [Architecture](#architecture)
